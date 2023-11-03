@@ -1,8 +1,8 @@
-# E-commerce Data Visualization using Streamlit and Plotly
+## E-commerce Data Visualization using Streamlit and Plotly
 
-### Dataset available at : https://www.kaggle.com/datasets/mervemenekse/ecommerce-dataset/
+#### Dataset available at : https://www.kaggle.com/datasets/mervemenekse/ecommerce-dataset/
 
-### Screenshots of Dashboards : 
+#### Screenshots of Dashboards : 
 
 ![Sales Dashboard](Sales_Dashboard_Screenshot.png)
 
